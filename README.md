@@ -3,7 +3,7 @@
 Oii! Eu gosto de separar a realidade da internet então...
 
 Eu sou o Zekrom, um dragãozinho muito fofo que tem grandes planos para o futuro, quero sempre poder ajudar os outros e me divertir programando.
-A porgramação para mim é mais como um hobby já que eu começei do nada.
+A porgramação para mim é mais como um hobby que eu começei do nada.
 
 ### O que eu sei
 
