@@ -7,5 +7,4 @@ A porgramação para mim é mais como um hobby que eu começei do nada.
 
 ### O que eu sei
 
-Atualmente eu sei quase nada mas vale resaltar que eu aprendo muito rápido. Eu sei mais ou menos 90% de Python e quero aprender no futuro HTML, Css e JavaScript
-Eu raramente desisto das minhas ideias então que o futuro me aguarde!
+Atualmente eu sei quase nada mas vale resaltar que eu aprendo muito rápido. Eu sei mais ou menos 90% de Python e queria aprender Html, Css e Js o que felizmente eu aprendi, agora estou me dedicando ao máximo a fazer interfaces e design promissores.
