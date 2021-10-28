@@ -3,12 +3,12 @@
 Oii! Eu gosto de separar a realidade da internet então...
 
 Eu sou o Zekrom, um dragãozinho muito fofo que tem grandes planos para o futuro, quero sempre poder ajudar os outros e me divertir programando.
-A porgramação para mim é mais como um hobby que eu começei do nada.
+A porgramação para mim é mais como um hobby que eu começei sem o incentivo de ninguém e sem um motivo prévio.
 
 ### O que eu sei
 
-Atualmente eu sei quase nada mas vale resaltar que eu aprendo muito rápido. Eu sei mais ou menos 90% de Python e queria aprender Html, Css e Js o que felizmente eu aprendi, agora estou me dedicando ao máximo a fazer interfaces e design promissores.
+Eu conheco algumas linguagens mas a que mais uso é o Python. Recentemente estou estudando mais JavaScript para servidores e mais a diande quero aprender C#.
 
 ### O que eu utilizo
 
-Bem antigamente eu utilizava o Windows 10 e agora uso o Ubuntu 20. Não pretendo mudar minha IDE que é o Vscode.
+Eu tenho um computador muito velho que tem dois monitores para programar, com certeza ele não me ajuda em nada mas a única peça do meu "setup" que é incrível seria o meu teclaod Redragon K55 Lunar white com switch red que eu adoro digitar.
