@@ -1,14 +1,12 @@
-## Zekrom!
+## 🐉 Zekrom!
 
-Oii! Eu gosto de separar a realidade da internet então...
+Hi! I'm a teenager that likes to code, do you want to know more about me?
+I am from Brazil, more specifically from Rio Grande do Sul, and I'm at the 9th grade
 
-Eu sou o Zekrom, um dragãozinho muito fofo que tem grandes planos para o futuro, quero sempre poder ajudar os outros e me divertir programando.
-A porgramação para mim é mais como um hobby que eu começei sem o incentivo de ninguém e sem um motivo prévio.
+### ℹ️ What I know
 
-### O que eu sei
+Currently I'm working on my skills so I can use JavaScript better. I learned Python, Html, and Css. I really want to learn C# and more about front-end
 
-Eu conheco algumas linguagens mas a que mais uso é o Python. Recentemente estou estudando mais JavaScript para servidores e mais a diande quero aprender C#.
+### 💻 What do i use 
 
-### O que eu utilizo
-
-Eu tenho um computador muito velho que tem dois monitores para programar, com certeza ele não me ajuda em nada mas a única peça do meu "setup" que é incrível seria o meu teclaod Redragon K55 Lunar white com switch red que eu adoro digitar.
+I use a poor little laptop that barely runs anything, is it that bad? Yes it is but at least i can write code in it. The only pheripheral on my computer that i love is my keyboar, a Redragon Kumara Lunar white
