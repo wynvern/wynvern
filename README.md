@@ -1,7 +1,7 @@
 # 🐉 Zekrom!
 
 Hi! I'm a teenager that likes to code, do you want to know more about me?
-I am from Brazil, more specifically from Rio Grande do Sul, and I'm at the 9th grade
+I am from Brazil, more specifically from Rio Grande do Sul, and I'm at the 1st year of high school
 
 ### ℹ️ What I know?
 
