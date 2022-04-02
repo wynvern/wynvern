@@ -5,12 +5,12 @@ I am from Brazil, more specifically from Rio Grande do Sul, and I'm at the 1st y
 
 ### ℹ️ What I know?
 
-Currently I'm working on my skills so I can use JavaScript better. I learned **Python**, **Html**, and **Css**. I really want to learn **C#** and more about full-stack developement
+Currently I'm working on my skills so I can use JavaScript better. I've learned *Python*, *Html*, and *Css*. I really want to learn *C#* and more about full-stack developement
 
 ### 💻 What I use? 
 
-I use a poor little laptop that barely runs anything, is it that bad? Yes it is but at least i can write code in it. The only peripheral on my computer that i love is my keyboar, a **Redragon Kumara Lunar white**
+I was coding stuff on my old laptop from Hp, and now finnaly I have a decent computer...
 
 ### 📒 My projects!
 
-If you go to my repositories you will see nothing, that's because I don't want to expose my code *(It's good but i get shy showing it)*. I have three bots for discord *(one of them I'm currently working)*, a music player *(my first project)*, and a storage Api called **Twuck**
+If you go to my repositories you will see nothing, that's because I don't want to expose my code *(It's good but i get shy showing it)*. I have three bots for discord *(one of them I'm currently working)*, a music player *(my first project)*, and a storage Api called *Twuck*
