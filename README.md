@@ -13,4 +13,4 @@ I was coding stuff on my old laptop from Hp, and now finally I have a decent com
 
 ### 📒 My projects!
 
-If you go to my repositories you will see nothing, that's because I don't want to expose my code *(It's good but I get shy showing it)*. I have three bots for discord *(one of them I'm currently working on)*, a music player *(my first project)*, and a storage API called *Truck*
+I don't have that many projects open, but sometimes I get creative and do unusual stuff, always think that I've never used. I am working on a discord bot called Soft, so if you wanna help me test it some time, lets chat!
