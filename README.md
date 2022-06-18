@@ -13,4 +13,4 @@ I was coding stuff on my old laptop from Hp, and now finally I have a decent com
 
 ### 📒 My projects!
 
-I don't have that many projects open, but sometimes I get creative and do unusual stuff, always think that I've never used. I am working on a discord bot called Soft, so if you wanna help me test it some time, lets chat!
+I don't have that many projects open, but sometimes I get creative and do unusual stuff, those are always things that I've never used. I am working on a discord bot called Soft, so if you wanna help me test it some time, lets chat!
