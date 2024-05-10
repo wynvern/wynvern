@@ -1,21 +1,18 @@
-# 🐲🦝🦊 Olá :D 
-Sou um estudante do ensino médio ganhando conhecimento e me inserindo no mercado de trabalho.
+<h1 align="center">Hi :D I'm Jeakarllo</h1>
+<h3 align="center">A young developer starting it's carreer</h3>
 
-## 📘 Aprendizados
-- Desenvolvi uma aplicação para o compartilhamento de imagens, vídeo e texto (rede social) com o Next.js e outras tecnologias (prisma, node.js, node mailer, react, Postgresql) para fins de aprendizagem com a linguagem Typescript.
-- Projetei e programei uma aplicação com Java, Python e Mysql para um projeto de escola para trazer melhorias de vida para a cantina da escola (Projeto Tecnológico I). A aplicação continha todos os mais comuns cadastros (produtos, usuários, vendas e geração de relatórios).
-- Aprendi de forma autônoma, com a mentalidade QDD (Question-Driven Development) Javascript, Python, HTML, CSS, Java, C e Typescript. Também planejo começar a minha jornada em SQL e Rust.
-
-<h1 align="center">Olá :D Jeakarllo</h1>
-<h3 align="center">Um desenvolvedor iniciando a sua carreira</h3>
-
-- 🔭 Estou atualmente realizando um projeto para o IFTI3 no Instituto Ivoti [Cluster](https://github.com/wynvern/cluster)
+- 🔭 I'm currently in a projetc for IFTI3 at Instituto Ivoti called [Cluster](https://github.com/wynvern/cluster)
 
 - 🌱 I’m currently learning **Tensorflow, Rust**
 
 - 💬 Ask me about **React, Next.js**
 
 - ⚡ Fun fact **I love dragons, I think they're cute...**
+
+- I developed an application for sharing images, videos, and text (social network) with Next.js and other technologies (Prisma, Node.js, Node Mailer, React, PostgreSQL) for learning purposes with the 
+TypeScript language.
+- I designed and programmed an application with Java, Python, and MySQL for a school project to improve life at the school cafeteria (Technological Project I). The application contained all the most common registrations (products, users, sales, and report generation).
+- I learned autonomously, with the QDD (Question-Driven Development) mindset, JavaScript, Python, HTML, CSS, Java, C, and TypeScript. I also plan to start my journey in SQL and Rust.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
