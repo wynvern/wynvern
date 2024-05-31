@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact: **I love dragons, I think they're cute**
 
+- 🎨 I really enjoy drawing, specially Pokemon, I find them cute. You can see my progress on X.
+
 - I developed an application for sharing images, videos, and text (social network) with Next.js and other technologies (Prisma, Node.js, Node Mailer, React, PostgreSQL) for learning purposes using the TypeScript language.
 
 - I designed and programmed an application with Java, Python, and MySQL for a school project to improve life at the school cafeteria (Technological Project I). The application contained all the most common registrations (products, users, sales, and report generation).
